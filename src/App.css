@@ -1,0 +1,117 @@
+
+/* Footer */
+#footer{
+  background-color: #14274e;
+  padding: 50px 50px 50px 50px;
+  text-align: center;
+  font-family: 'Ubuntu', sans-serif;
+  
+}
+
+
+.copyright{
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: white;
+}
+.social-icon{
+  margin: 20px 20px;
+  color: white;
+  
+}
+.social-icon:hover{
+  color:#6b6d6e
+}
+
+.hr_reduced{
+  width: 300px;
+}
+
+.color{
+  background-color: #14274e;
+    color: white;
+}
+
+.contact{
+  padding-left: 100px 10px 10px 10px;
+  background-color: white;
+}
+
+.me{
+  box-shadow: none;
+  border: 0ch;
+  padding: 0%;
+  color:black;
+}
+
+.leftNav{
+  background-color: #14274e;
+  border-style: solid;
+  border-color: azure;
+}
+.leftNav {
+  font-size: large;
+  color: turquoise;
+}
+
+
+.delete{
+  float: left;
+  background-color: rgb(236, 13, 43);
+  border-radius: 75%;
+  border: 2x solid #094372;
+  padding: 10px 10px;
+  color: white;
+}
+.delete:hover {
+  cursor: pointer;
+  color: #eaeff3;
+}
+
+.navcol{
+  color:white
+}
+
+
+.head{
+  background-repeat:no-repeat;
+  background-position:bottom right;
+  width: 100%;
+  background-size: contain;
+ 
+}
+
+.demo-bg {
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0.6) 0%,rgba(255,255,255,0.9) 100%), url(https://ps.w.org/ultimate-member/assets/banner-772x250.png?rev=2143172)
+}
+
+.boxsh{
+  box-shadow:0px 5px 25px rgba(0, 0, 0, 0.2);
+}
+
+.resolve{
+  float: left;
+  background-color: rgb(236, 158, 13);
+  border-radius: 75%;
+  border: 2x solid #094372;
+  padding: 10px 10px;
+  color: white;
+}
+.resolve:hover {
+  cursor: pointer;
+  color: #eaeff3;
+}
+
+.feed{
+  float: left;
+  background-color:rgb(5, 128, 5);
+  border-radius: 75%;
+  border: 2x solid #094372;
+  padding: 10px 10px;
+  color: white;
+}
+
+.feed:hover{
+  cursor: pointer;
+  color: #eaeff3;
+}
